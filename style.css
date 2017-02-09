@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+html,body {
+	height: 100%;
+}
+
+.content>div {
+	width: 25%;
+	height: 0;
+	background-color: orange;
+	float: left;
+	border-radius: 5%;
+	padding-bottom: 25%;
+	margin: 1%;
+}
+
+.content {
+	height: 100%;
+	width: 50%;
+	margin: 0 auto;
+}
